@@ -8,3 +8,5 @@ multiplicacion = num1 * num2
 
 print("la suma de los dos numeros es: " ,suma)
 print("la resta de los dos numeros es: " ,resta)
+print ("multiplicacion" , multiplicacion)
+print("division", div)
